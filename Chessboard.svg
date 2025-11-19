@@ -1,0 +1,100 @@
+<svg width="401" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .dark-square {
+    fill: #401D00;
+    fill-opacity: 0.9;
+  }
+  .light-square {
+    fill: #401D00;
+    fill-opacity: 0.4;
+  }
+</style>
+<g id="Chessboard" clip-path="url(#clip0_1_272)">
+<rect width="400" height="400" fill="white"/>
+<g id="Rank-8">
+<rect class="dark-square" id="Square-88" x="350" width="50" height="50"/>
+<rect class="light-square" id="Square-87" x="300" width="50" height="50"/>
+<rect class="dark-square" id="Square-86" x="250" width="50" height="50" />
+<rect class="light-square" id="Square-85" x="200" width="50" height="50"/>
+<rect class="dark-square" id="Square-84" x="150" width="50" height="50" />
+<rect class="light-square" id="Square-83" x="100" width="50" height="50"/>
+<rect class="dark-square" id="Square-82" x="50" width="50" height="50" />
+<rect class="light-square" id="Square-81" width="50" height="50"/>
+</g>
+<g id="Rank-7">
+<rect class="light-square" id="Square-78" x="350" y="50" width="50" height="50"/>
+<rect class="dark-square" id="Square-77" x="300" y="50" width="50" height="50" />
+<rect class="light-square" id="Square-76" x="250" y="50" width="50" height="50"/>
+<rect class="dark-square" id="Square-75" x="200" y="50" width="50" height="50" />
+<rect class="light-square" id="Square-74" x="150" y="50" width="50" height="50"/>
+<rect class="dark-square" id="Square-73" x="100" y="50" width="50" height="50" />
+<rect class="light-square" id="Square-72" x="50" y="50" width="50" height="50"/>
+<rect class="dark-square" id="Square-71" y="50" width="50" height="50" />
+</g>
+<g id="Rank-6">
+<rect class="dark-square" id="Square-68" x="350" y="100" width="50" height="50" />
+<rect class="light-square" id="Square-67" x="300" y="100" width="50" height="50" />
+<rect class="dark-square" id="Square-66" x="250" y="100" width="50" height="50" />
+<rect class="light-square" id="Square-65" x="200" y="100" width="50" height="50" />
+<rect class="dark-square" id="Square-64" x="150" y="100" width="50" height="50" />
+<rect class="light-square" id="Square-63" x="100" y="100" width="50" height="50" />
+<rect class="dark-square" id="Square-62" x="50" y="100" width="50" height="50" />
+<rect class="light-square" id="Square-61" y="100" width="50" height="50" />
+</g>
+<g id="Rank-5">
+<rect class="light-square" id="Square-58" x="350" y="150" width="50" height="50" />
+<rect class="dark-square" id="Square-57" x="300" y="150" width="50" height="50" />
+<rect class="light-square" id="Square-56" x="250" y="150" width="50" height="50" />
+<rect class="dark-square" id="Square-55" x="200" y="150" width="50" height="50" />
+<rect class="light-square" id="Square-54" x="150" y="150" width="50" height="50" />
+<rect class="dark-square" id="Square-53" x="100" y="150" width="50" height="50" />
+<rect class="light-square" id="Square-52" x="50" y="150" width="50" height="50" />
+<rect class="dark-square" id="Square-51" y="150" width="50" height="50" />
+</g>
+<g id="Rank-4">
+<rect class="dark-square" id="Square-48" x="350" y="200" width="50" height="50" />
+<rect class="light-square" id="Square-47" x="300" y="200" width="50" height="50"  />
+<rect class="dark-square" id="Square-46" x="250" y="200" width="50" height="50" />
+<rect class="light-square" id="Square-45" x="200" y="200" width="50" height="50"  />
+<rect class="dark-square" id="Square-44" x="150" y="200" width="50" height="50" />
+<rect class="light-square" id="Square-43" x="100" y="200" width="50" height="50"  />
+<rect class="dark-square" id="Square-42" x="50" y="200" width="50" height="50" />
+<rect class="light-square" id="Square-41" y="200" width="50" height="50"  />
+</g>
+<g id="Rank-3">
+<rect class="light-square" id="Square-38" x="350" y="250" width="50" height="50"  />
+<rect class="dark-square" id="Square-37" x="300" y="250" width="50" height="50" />
+<rect class="light-square" id="Square-36" x="250" y="250" width="50" height="50"  />
+<rect class="dark-square" id="Square-35" x="200" y="250" width="50" height="50" />
+<rect class="light-square" id="Square-34" x="150" y="250" width="50" height="50"  />
+<rect class="dark-square" id="Square-33" x="100" y="250" width="50" height="50" />
+<rect class="light-square" id="Square-32" x="50" y="250" width="50" height="50"  />
+<rect class="dark-square" id="Square-31" y="250" width="50" height="50" />
+</g>
+<g id="Rank-2">
+<rect class="dark-square" id="Square-28" x="350" y="300" width="50" height="50" />
+<rect class="light-square" id="Square-27" x="300" y="300" width="50" height="50"  />
+<rect class="dark-square" id="Square-26" x="250" y="300" width="50" height="50" />
+<rect class="light-square" id="Square-25" x="200" y="300" width="50" height="50"  />
+<rect class="dark-square" id="Square-24" x="150" y="300" width="50" height="50" />
+<rect class="light-square" id="Square-23" x="100" y="300" width="50" height="50"  />
+<rect class="dark-square" id="Square-22" x="50" y="300" width="50" height="50" />
+<rect class="light-square" id="Square-21" y="300" width="50" height="50"  />
+</g>
+<g id="Rank-1">
+<rect class="light-square" id="Square-18" x="350" y="350" width="50" height="50"  />
+<rect class="dark-square" id="Square-17" x="300" y="350" width="50" height="50" />
+<rect class="light-square" id="Square-16" x="250" y="350" width="50" height="50"  />
+<rect class="dark-square" id="Square-15" x="200" y="350" width="50" height="50" />
+<rect class="light-square" id="Square-14" x="150" y="350" width="50" height="50"  />
+<rect class="dark-square" id="Square-13" x="100" y="350" width="50" height="50" />
+<rect class="light-square" id="Square-12" x="50" y="350" width="50" height="50"  />
+<rect class="dark-square" id="Square-11" y="350" width="50" height="50" />
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_272">
+<rect width="400" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>
