@@ -1,10 +1,10 @@
+import ChessBoard from "./chessboard.jsx";
 function App() {
-  return (
-    <>
-      <div>
-      </div>
-    </>
-  )
+    return (
+        <>
+            <ChessBoard></ChessBoard>
+        </>
+    )
 }
 
 export default App
