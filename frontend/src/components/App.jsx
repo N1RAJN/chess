@@ -1,8 +1,8 @@
-import ChessBoard from "./chessboard.jsx";
+import PlayField from "./PlayField.jsx"
 function App() {
     return (
         <>
-            <ChessBoard></ChessBoard>
+            <PlayField></PlayField>
         </>
     )
 }

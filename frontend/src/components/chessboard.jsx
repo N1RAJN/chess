@@ -1,7 +1,7 @@
 import "../css/chessBoard.css"
 const ChessBoard = () => {
-    return <div className="Board">
-        <svg width="80vmin" height="80vmin" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    return <>
+        <svg class="Board" width="80vmin" height="80vmin" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g id="Chessboard" clip-path="url(#clip0_1_272)">
                 <rect width="400" height="400" fill="white" />
                 <g id="Rank-8">
@@ -92,7 +92,6 @@ const ChessBoard = () => {
                 </clipPath>
             </defs>
         </svg>
-
-    </div>
+    </>
 }
 export default ChessBoard;

@@ -1,8 +1,9 @@
 .dark-square {
-    fill: #401D00;
+    fill: #4b7399;
     fill-opacity: 0.9;
 }
+
 .light-square {
-    fill: #401D00;
+    fill: #eae9d2;
     fill-opacity: 0.4;
 }
