@@ -1,0 +1,8 @@
+.Play-Field {
+    display: flex;
+    margin: auto;
+    width: 80vmin;
+    height: 100vmin;
+    justify-content: center;
+    align-items: center;
+}
